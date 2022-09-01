@@ -10,9 +10,9 @@ With some slight alterations, this code could be further optimized to prevent re
 
 ## Usage
 
-The code can be found live online at [insert url].
+The code can be found live online at https://golemancer-ctrl.github.io/wc-password-03/.
 
-![The random password generator creates a completely randomized password of varying length using mixed alphanumeric characters and symbols based upon user input.](./assets/images/_C__Users_Eric_repositories_bootcamp_wc-password-03_index.html.pngassets/images/screenshot.png)
+![The random password generator creates a completely randomized password of varying length using mixed alphanumeric characters and symbols based upon user input.](./assets/images/screenshot.png)
 
 ## Credits
 
@@ -25,4 +25,6 @@ The code can be found live online at [insert url].
  - https://www.w3schools.com/jsref/jsref_substring.asp
 
  - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random
+ 
+ - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/parseInt
 
